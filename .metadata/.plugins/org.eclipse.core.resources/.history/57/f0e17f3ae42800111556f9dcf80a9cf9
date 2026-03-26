@@ -1,0 +1,17 @@
+package io.github.unlp_oo.archetype;
+import java.util.ArrayList;
+import java.util.List;
+
+public class Usuario {
+	private List<Publicacion> tweets;
+	
+	public void CrearPublicacion(String text){
+		Tweet t = new Tweet(text);
+		this.tweets.add(t);
+	}
+	
+	public void RepostearPublicacion(Tweet tweet){
+		ReTweet t = new ReTweet(tweet);
+		this.tweets.add(t);
+	}
+}

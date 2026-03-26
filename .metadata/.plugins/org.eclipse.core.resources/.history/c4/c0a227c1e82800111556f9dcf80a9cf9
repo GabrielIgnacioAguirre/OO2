@@ -1,0 +1,8 @@
+package io.github.unlp_oo.archetype;
+
+import org.junit.jupiter.api.*;
+import static org.junit.jupiter.api.Assertions.*;
+
+public class UsuarioTest {
+
+}

@@ -1,0 +1,12 @@
+package io.github.unlp_oo.archetype;
+
+public class ReTweet extends Publicacion{
+	private Tweet origen;
+	
+	public ReTweet(Tweet tweet) {
+		super(true, tweet.getText());
+		
+	}
+	
+
+}

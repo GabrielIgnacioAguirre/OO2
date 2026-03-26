@@ -1,0 +1,23 @@
+package io.github.unlp_oo.archetype;
+
+import org.junit.jupiter.api.*;
+import static org.junit.jupiter.api.Assertions.*;
+
+public class UsuarioTest {
+	private Usuario u = new Usuario("A");
+	private String text1 = "Una publicacion 1";
+	private String text2 = "Una publicacion 2";
+	private ReTweet ret = new ReTweet(text2);
+	
+	@Test
+	void testRepostearPublicacion() {
+	}
+	
+	@Test
+	void testCrearPublicacion(){
+		assertEquals(0, u.getTweets().size());
+		u.CrearPublicacion(t);
+		assertEquals(1, u.getTweets().size());
+		assertEquals(2, u.getTweets().size());
+	}
+}

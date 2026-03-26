@@ -1,0 +1,48 @@
+package io.github.unlp_oo.archetype;
+import java.util.ArrayList;
+
+
+public class Sistema {
+	private ArrayList<Usuario> usuarios;
+	
+	public boolean CrearUsuario(String screenName) {
+		Boolean res = ChequearUsuarioExistente(screenName);
+		if (res){
+			Usuario u = new Usuario(screenName);
+			this.usuarios.add(u);
+			System.out.print("Usuario creado");
+		}
+		System.out.print("Usuario ya existente");
+		return res;
+	}
+	
+	private Boolean ChequearUsuarioExistente(String sName) {
+		return (this.usuarios.stream()
+				.anyMatch(u -> u.getScreenName().equals(sName))) ? true : false;
+	}
+	
+	public Boolean EliminarUsuario(String sName) {
+		Boolean res = false;
+		Usuario usuario = this.usuarios.stream()
+				.filter(u -> u.getScreenName().equals(sName)).findFirst().orElse(null);
+		if (usuarios != null) {
+			res = true;
+			this.usuarios.remove(usuario);
+			System.out.print("Usuario eliminado");
+		}
+		else {
+			System.out.print("Usuario no encontrado");
+		}
+		return res;
+	}
+	
+	//Setters y Getters
+	public ArrayList<Usuario> getUsuarios() {
+		return usuarios;
+	}
+
+	public void setUsuarios(ArrayList<Usuario> usuarios) {
+		this.usuarios = usuarios;
+	}
+	
+}
