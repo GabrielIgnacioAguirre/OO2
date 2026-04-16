@@ -869,3 +869,332 @@ org.eclipse.core.runtime.CoreException: Launch configuration UsuarioTest referen
 2026-04-14 10:48:41,465 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2026-04-14 10:50:55,676 [Worker-4: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ar.edu.info.unlp:ejercicioDemo:0.0.1-SNAPSHOT @ C:\Users\Usuario\Desktop\Sistemas\2026\OO2\ejercicioDemo3\pom.xml.
 2026-04-14 11:06:54,987 [Worker-27: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ar.edu.info.unlp:ejercicioDemo:0.0.1-SNAPSHOT @ C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\ejercicioDemo3\pom.xml.
+2026-04-14 11:06:55,109 [Worker-27: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicioDemo/src/main/java
+2026-04-14 11:06:55,111 [Worker-27: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ejercicioDemo/src/main/resources
+2026-04-14 11:06:55,112 [Worker-27: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicioDemo/src/test/java
+2026-04-14 11:06:55,112 [Worker-27: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ejercicioDemo/src/test/resources
+2026-04-14 11:06:55,141 [Worker-27: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2026-04-14 11:06:55,516 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\ejercicioDemo3\src\main\resources
+2026-04-14 11:06:55,519 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\ejercicioDemo3\src\test\resources
+2026-04-14 11:16:35,389 [Worker-40: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ar.edu.info.unlp:refactoring-ej-1:0.0.1-SNAPSHOT @ C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\pom.xml.
+2026-04-14 11:16:35,697 [Worker-40: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /refactoring-ej-1/src/main/java
+2026-04-14 11:16:35,697 [Worker-40: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /refactoring-ej-1/src/main/resources
+2026-04-14 11:16:35,699 [Worker-40: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /refactoring-ej-1/src/test/java
+2026-04-14 11:16:35,700 [Worker-40: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /refactoring-ej-1/src/test/resources
+2026-04-14 11:16:35,745 [Worker-40: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2026-04-14 11:16:36,176 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-14 11:16:36,179 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-14 11:17:07,583 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-14 11:17:07,584 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-14 11:17:13,936 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-14 11:17:13,937 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-14 11:17:33,154 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-14 11:17:33,156 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-14 11:17:54,803 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-14 11:17:54,805 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-14 11:18:10,643 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-14 11:18:10,645 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-14 11:19:02,563 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-14 11:19:02,564 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-14 11:19:23,243 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-14 11:19:23,245 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-14 11:20:36,196 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-14 11:20:36,199 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-14 11:21:41,121 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-14 11:21:41,122 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-14 11:21:58,477 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-14 11:21:58,482 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-14 11:22:06,741 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-14 11:22:06,742 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-14 11:22:12,203 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-14 11:22:12,205 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-14 11:23:39,840 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-14 11:23:39,841 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-14 11:28:17,405 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-14 11:28:17,407 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-14 11:29:36,525 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-14 11:29:36,526 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-14 11:29:50,515 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-14 11:29:50,516 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-14 11:30:04,267 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-14 11:30:04,268 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-14 11:34:55,917 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-14 11:34:55,918 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-14 11:34:58,218 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-14 11:34:58,219 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-14 11:35:20,670 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-14 11:35:20,671 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-14 11:36:22,405 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-14 11:36:22,406 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-14 11:36:27,211 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-14 11:36:27,213 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-14 11:36:34,571 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-14 11:36:34,573 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-14 11:44:01,629 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-14 11:44:01,631 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-14 13:42:13,887 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-14 13:42:13,890 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 01:47:08,370 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2026-04-16 01:49:22,958 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 01:49:22,962 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 01:50:08,175 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 01:50:08,177 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 01:50:20,460 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 01:50:20,462 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 01:50:32,753 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 01:50:32,755 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 01:52:24,913 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 01:52:24,915 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 01:52:30,428 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 01:52:30,429 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 01:52:33,034 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 01:52:33,035 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 01:59:25,347 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 01:59:25,349 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:00:38,757 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:00:38,759 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:00:50,670 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:00:50,672 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:00:58,831 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:00:58,832 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:03:23,894 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:03:23,896 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:03:28,460 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:03:28,462 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:04:30,179 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:04:30,180 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:04:54,732 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:04:54,734 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:04:55,988 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:04:55,989 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:04:59,150 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:04:59,151 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:05:06,494 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:05:06,496 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:15:31,782 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:15:31,783 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:16:24,104 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:16:24,105 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:27:22,888 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:27:22,890 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:27:40,332 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:27:40,333 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:28:57,814 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:28:57,817 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:29:20,777 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:29:20,778 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:29:39,871 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:29:39,872 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:32:18,871 [Worker-36: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - File not found: C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\pom.xml.
+org.eclipse.core.internal.resources.ResourceException: File not found: C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\pom.xml.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:886)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:344)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:334)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:589)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.runtime.CoreException: File not found: C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\pom.xml.
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:32)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.handleReadIOException(LocalFile.java:498)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:479)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:881)
+	... 26 common frames omitted
+Caused by: java.io.FileNotFoundException: C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\pom.xml (El sistema no puede encontrar la ruta especificada)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:159)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:477)
+	... 27 common frames omitted
+2026-04-16 02:33:38,720 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2026-04-16 02:33:55,151 [Worker-16: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ar.edu.info.unlp:refactoring-ej-1:0.0.1-SNAPSHOT @ C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\pom.xml.
+2026-04-16 02:33:55,669 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:33:55,674 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:33:56,788 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:33:56,791 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:33:58,767 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:33:58,770 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:34:37,451 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:34:37,453 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:34:41,881 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:34:41,884 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:34:55,020 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:34:55,024 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:35:33,492 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:35:33,495 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:35:36,836 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:35:36,837 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:40:17,661 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:40:17,665 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:40:19,290 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:40:19,292 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:40:23,880 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:40:23,883 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:40:44,542 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:40:44,544 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:40:57,288 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:40:57,289 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:41:00,158 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:41:00,159 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:47:50,938 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:47:50,940 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:48:02,485 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:48:02,487 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:48:20,800 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:48:20,801 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:48:24,064 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:48:24,065 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:49:15,134 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:49:15,136 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:51:26,628 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:51:26,630 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:51:37,605 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:51:37,606 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:53:59,011 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:53:59,013 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:54:16,244 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:54:16,246 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:54:36,690 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:54:36,692 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:54:42,729 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:54:42,731 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:54:48,620 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:54:48,622 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:55:18,491 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:55:18,493 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:55:44,882 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:55:44,883 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:55:59,713 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:55:59,714 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:56:06,860 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:56:06,861 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:56:46,252 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:56:46,253 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:56:54,614 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:56:54,616 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:57:17,330 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:57:17,331 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:58:17,299 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:58:17,302 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:58:21,428 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:58:21,429 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:59:05,114 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:59:05,115 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 02:59:45,849 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 02:59:45,850 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:00:31,871 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:00:31,873 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:00:39,140 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:00:39,142 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:01:16,974 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:01:16,976 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:01:30,717 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:01:30,719 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:01:40,536 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:01:40,543 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:01:55,596 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:01:55,598 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:09:53,764 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:09:53,766 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:09:56,900 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:09:56,901 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:10:06,360 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:10:06,363 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:13:29,599 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:13:29,601 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:13:34,253 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:13:34,255 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:15:03,702 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:15:03,704 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:16:31,896 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:16:31,897 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:21:24,702 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:21:24,703 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:21:44,869 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:21:44,870 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:21:48,454 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:21:48,455 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:29:14,694 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:29:14,695 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:32:48,352 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:32:48,354 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:32:55,146 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:32:55,148 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:33:01,521 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:33:01,523 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:33:08,083 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:33:08,085 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:33:18,432 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:33:18,434 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:33:27,001 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:33:27,002 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:33:37,328 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:33:37,329 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:33:41,606 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:33:41,607 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:34:00,919 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:34:00,920 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:34:05,300 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:34:05,303 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:47:53,465 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:47:53,465 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:48:15,915 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:48:15,916 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:48:40,173 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:48:40,174 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:51:25,903 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:51:25,904 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:51:31,262 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:51:31,264 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:51:40,417 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:51:40,418 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:51:48,738 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:51:48,739 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:53:05,702 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:53:05,703 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:54:29,048 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:54:29,050 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:54:58,157 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:54:58,158 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:55:25,664 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:55:25,665 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:55:59,373 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:55:59,375 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:56:13,470 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:56:13,472 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:56:18,817 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:56:18,818 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:56:20,598 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:56:20,601 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:56:27,426 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:56:27,427 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:56:44,210 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:56:44,211 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 03:57:01,147 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 03:57:01,149 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 04:01:18,762 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 04:01:18,763 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 04:01:37,124 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 04:01:37,126 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 04:01:41,213 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 04:01:41,214 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
