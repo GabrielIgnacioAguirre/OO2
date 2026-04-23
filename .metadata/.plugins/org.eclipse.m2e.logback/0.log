@@ -1198,3 +1198,8 @@ Caused by: java.io.FileNotFoundException: C:\Users\Usuario\Desktop\Sistemas\2026
 2026-04-16 04:01:37,126 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
 2026-04-16 04:01:41,213 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
 2026-04-16 04:01:41,214 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 04:07:46,312 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 04:07:46,313 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-16 04:08:14,624 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\main\resources
+2026-04-16 04:08:14,625 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Sistemas\2026\OO2\Refactoring\prc2ejer6\src\test\resources
+2026-04-23 00:56:16,526 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
