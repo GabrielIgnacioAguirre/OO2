@@ -1,0 +1,16 @@
+package ar.edu.unlp.info.oo2.ejercicio17;
+
+public class WifiConn implements Connection{
+
+	@Override
+	public String sendData(String data, long crc) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String pict() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+}

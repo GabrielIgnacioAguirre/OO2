@@ -20,4 +20,31 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/main/java/ar/edu/unlp/info/oo2/accesobd/uml20.png</name>
+			<type>1</type>
+			<location>C:/Users/Usuario/Downloads/uml20.png</location>
+		</link>
+		<link>
+			<name>src/main/java/ar/edu/unlp/info/oo2/ejercicio14/ejer14patrones.png</name>
+			<type>1</type>
+			<location>C:/Users/Usuario/Downloads/ejer14patrones.png</location>
+		</link>
+		<link>
+			<name>src/main/java/ar/edu/unlp/info/oo2/ejercicio16/uml16.png</name>
+			<type>1</type>
+			<location>C:/Users/Usuario/Downloads/ZLBBRi8m4BpxAtmCRSC788IeAWv8xQdg1opsWYpv4Usk9QIMVsy0nmf1gCqboNWsCpkJDGkGvE2LyS2iDqUJYLsA-blf_cfrJ657g1VwKyZ5Gq5DOaazQ5FUUHp0tAKF5rqudxWeOnYEKpXp1dA9U_3TiIo_hk-hSemiODD55mIhBtKvVjPm83m0bQ4czyJoF2kCj1ECIDkuJnJ0zBFD.png</location>
+		</link>
+		<link>
+			<name>src/main/java/ar/edu/unlp/info/oo2/ejercicio17/uml17.png</name>
+			<type>1</type>
+			<location>C:/Users/Usuario/Downloads/fP9DJm8n48Rl_HLxNA9BeX8FX6mmeDp1n2EftR9Eqcr9EwiGzRyxtUzkma7bjFCnpxnCtwL3Rh4i51EAEnUjmHsD0uHt4oqMAwDHdZ1D_RS2gVtd9uleT-MapkACet6JEY6Cbe9eD1IBFdU0lBIKtQvyzfiD5Yb-xcXlvYDsv-BLg47J5dGkRTjZAOghAf0iU-12HhHCdi1e4lZCRIv7.png</location>
+		</link>
+		<link>
+			<name>src/main/java/ar/edu/unlp/info/oo2/ejercicio21/uml21.png</name>
+			<type>1</type>
+			<location>C:/Users/Usuario/Downloads/uml21.png</location>
+		</link>
+	</linkedResources>
 </projectDescription>
